@@ -10,6 +10,8 @@ Features a lot of fun and fancy stuff: user can throw weapon on his enemies, kil
 Play the game "Combat ninja" and submit your high scores by taking all the bounties coming in the way!<br>
 
 Please clone the game on your PC asap to enjoy the game.</p>
+<h2>License</h2>
+Distributed under MIT license
 <h2>Requirements</h2>
 Windows OS on PC<br>
 <h2>Installation</h2>
